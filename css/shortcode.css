@@ -62,8 +62,8 @@
 	line-height: 45px;
 }
 .slider-section .uranus.tparrows:hover {
-	background-color: #31cec3;
-	border-color: #31cec3;
+	background-color: #004473;
+	border-color: #004473;
 }
 
 .slider-section .tp-bullets {
@@ -91,7 +91,7 @@
 	position: relative;
 }
 .booking-section .booking-detail {
-	background-color: #31cec3;
+	background-color: #004473;
 	padding: 90px 120px;
 	text-align: center;
 }
@@ -180,7 +180,7 @@
 }
 .booking-section .booking-detail a.book-now:hover {
 	background-color: #fff;
-	color: #31cec3;
+	color: #004473;
 }
 
 /* - Booking Section 1 */
@@ -423,7 +423,7 @@
 .welcome-section-1 .wc-max-content .wc-mission i {
 	border: 1px solid #444;
 	border-radius: 100%;
-	color: #31cec3;
+	color: #004473;
 	display: inline-block;
 	width: 44px;
 	height: 44px;
@@ -449,8 +449,8 @@
 	letter-spacing: 0.16px;
 }
 .welcome-section-1 .wc-max-content a.learn-more {
-	background-color: #31cec3;
-	border: 1px solid #31cec3;
+	background-color: #004473;
+	border: 1px solid #004473;
 	color: #fff;
 	display: inline-block;
 	font-weight: 600;
@@ -1044,7 +1044,7 @@
 	top: 50%;
 }
 .gallery-single .flex-direction-nav a  {
-	border: 2px solid #31cec3;
+	border: 2px solid #004473;
 	display: inline-block;
 	color: #111;
 	height: 46px;
@@ -1164,7 +1164,7 @@
 	margin-bottom: 20px;
 }
 .callout .call-out-content a {
-	border: 3px solid #31cec3;
+	border: 3px solid #004473;
 	color: #fff;
 	display: inline-block;
 	font-weight: 600;
@@ -1178,7 +1178,7 @@
 	transition: all 1s ease 0s;
 }
 .callout .call-out-content a:hover {
-	background-color: #31cec3;
+	background-color: #004473;
 	color: #fff;
 }
 
@@ -1241,7 +1241,7 @@
 }
 .clients .owl-theme .owl-controls .owl-nav [class*="owl-"] {
 	background-color: #fff;
-	border: 2px solid #31cec3;
+	border: 2px solid #004473;
 	border-radius: 0;
 	display: inline-block;
 	font-size: 0;
@@ -1297,7 +1297,7 @@
 }
 .event-section .event-content .event-date p {
 	background-color: #fff;
-	color: #31cec3;
+	color: #004473;
 	font-family: 'Open Sans', serif;
 	font-size: 30px;
 	font-weight: normal;
@@ -1307,7 +1307,7 @@
 	margin-bottom: 0;
 }
 .event-section .event-content .event-date span {
-	background-color: #31cec3;
+	background-color: #004473;
 	color: #fff;
 	display: inline-block;
 	font-weight: 600;
@@ -1337,7 +1337,7 @@
 	font-weight: 600;
 }
 .event-section .event-content p > i {
-	color: #31cec3;
+	color: #004473;
 	padding-right: 15px;
 }
 .event-section .event-content p > a {
@@ -1615,7 +1615,7 @@
 	text-transform: uppercase;
 }
 .type-post .blog-content h3.entry-title::after {
-	background-color: #31cec3;
+	background-color: #004473;
 	content: "";
 	height: 3px;
 	width: 54px;
@@ -1631,7 +1631,7 @@
 	transition: all 1s ease 0s;
 }
 .type-post .blog-content h3.entry-title a:hover {
-	color: #31cec3;
+	color: #004473;
 	text-decoration: none;
 }
 .type-post .blog-content .entry-content p {
@@ -1642,7 +1642,7 @@
 	margin-bottom: 0;
 }
 .type-post .blog-content a.read-more {
-	background-color: #31cec3;
+	background-color: #004473;
     bottom: 0;
     color: #fff;
 	font-size: 25px;
@@ -1691,7 +1691,7 @@
 	border-radius: 0;
 }
 .blog-section .ow-pagination ul li a:hover {
-	background-color: #31cec3;
+	background-color: #004473;
 	color: #fff;
 }
 
@@ -1782,7 +1782,7 @@
 	padding-right: 22px;
 }
 .widget-area .widget_categories ul li a:hover {
-	color: #31cec3;
+	color: #004473;
 }
 
 /* - Widget Latestpost */
@@ -1811,10 +1811,10 @@
 	text-decoration: none;
 }
 .widget-area .widget_latestposts .latest-content h5 > a:hover {
-	color: #31cec3;
+	color: #004473;
 }
 .widget-area .widget_latestposts .latest-content span {
-	color: #31cec3;
+	color: #004473;
 	display: inline-block;
 }
 
@@ -1837,7 +1837,7 @@
 	transition: all 1s ease 0s;
 }
 .widget-area .widget_tags a:hover {
-	background-color: #31cec3;
+	background-color: #004473;
 	color: #fff;
 }
 
@@ -1953,7 +1953,7 @@
 	word-wrap: break-word;
 }
 .comment-section span {
-	color: #31cec3;
+	color: #004473;
 	display: block;
 	margin-top: 0;
 	margin-bottom: 8px;
@@ -1976,7 +1976,7 @@
 	margin-bottom: 20px;
 }
 .comment-section .media-content a {
-	border: 2px solid #31cec3;
+	border: 2px solid #004473;
 	background-color: transparent;
 	font-size: 12px;
 	color: #000;
@@ -1993,7 +1993,7 @@
 	transition: all 1s ease 0s;
 }
 .comment-section .media-content a:hover {
-	background-color: #31cec3;
+	background-color: #004473;
 	color: #fff;
 }
 .comment-section .media.media-even {
@@ -2035,7 +2035,7 @@
 	font-size: 14px;
 	display: inline-block;
 	background-color: transparent;
-	border: 2px solid #31cec3;
+	border: 2px solid #004473;
 	border-radius: 0;
 	padding: 12px 30px;
 	margin: 10px 15px 0;
@@ -2048,7 +2048,7 @@
 }
 .comment-form  input[type="submit"]:hover {
 	color: #fff;
-	background-color: #31cec3;
+	background-color: #004473;
 }
 
 /* - Latest News */
@@ -2062,7 +2062,7 @@
 	text-align: center;
 }
 .latest-blog .type-post .blog-content a.post-more {
-	background-color: #31cec3;
+	background-color: #004473;
 	color: #fff;
 	display: inline-block;
 	font-size: 35px;
@@ -2128,7 +2128,7 @@
 	letter-spacing: 0.375px;
 }
 .latest-blog .type-post .entry-content p > a {
-	color: #31cec3;
+	color: #004473;
 }
 .map-canvas.map_2 {
     height: 455px;
@@ -2272,7 +2272,7 @@
 	text-align: center;
 }
 .error-page .error-code h3 {
-	color: #31cec3;
+	color: #004473;
 	font-weight: 600;
 	font-size: 150px;
 	font-family: 'Open Sans', sans-serif;
@@ -2288,8 +2288,8 @@
 	margin-bottom: 30px;
 }
 .error-page .error-content a {
-	background-color: #31cec3;
-	border: 1px solid #31cec3;
+	background-color: #004473;
+	border: 1px solid #004473;
 	color: #fff;
 	display: inline-block;
 	font-weight: 600;

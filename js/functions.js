@@ -102,43 +102,43 @@
 	/* ## Document Ready - Handler for .ready() called */
 	$(document).ready(function($) {
 
-		/* - Scrolling Navigation */
-		var scroll	=	$(window).scrollTop();
-		var width	=	$(window).width();
-		var height	=	$(window).height();
+		// /* - Scrolling Navigation */
+		// var scroll	=	$(window).scrollTop();
+		// var width	=	$(window).width();
+		// var height	=	$(window).height();
 		
-		/* - Set Sticky Menu */
-		if( $(".header-section").length ) {
-			var menu_scroll = $(".header-section").offset().top;
-			var sticky_menu = function() {
-				var scroll_top = $(window).scrollTop();
+		// /* - Set Sticky Menu */
+		// if( $(".header-section").length ) {
+		// 	var menu_scroll = $(".header-section").offset().top;
+		// 	var sticky_menu = function() {
+		// 		var scroll_top = $(window).scrollTop();
 
-				if ( scroll_top > menu_scroll ) {
-					$(".header-section").addClass("navbar-fixed-top animated fadeInDown");
-				} else {
-					$(".header-section").removeClass("navbar-fixed-top animated fadeInDown"); 
-				}
-			};
-			sticky_menu();
-		}
+		// 		if ( scroll_top > menu_scroll ) {
+		// 			$(".header-section").addClass("navbar-fixed-top animated fadeInDown");
+		// 		} else {
+		// 			$(".header-section").removeClass("navbar-fixed-top animated fadeInDown"); 
+		// 		}
+		// 	};
+		// 	sticky_menu();
+		// }
 		
-		/* Event - Window Scroll */
-		$(window).scroll(function() {
-			/* - Set Sticky Menu */
-			if( $(".header-section").length ) {
-				sticky_menu();
-			}
-		});	
+		// /* Event - Window Scroll */
+		// $(window).scroll(function() {
+		// 	/* - Set Sticky Menu */
+		// 	if( $(".header-section").length ) {
+		// 		sticky_menu();
+		// 	}
+		// });	
 		
 		
-		$('.navbar-nav li a[href*="#"]:not([href="#"]), .site-logo a[href*="#"]:not([href="#"])').on("click", function(e) {
+		// $('.navbar-nav li a[href*="#"]:not([href="#"]), .site-logo a[href*="#"]:not([href="#"])').on("click", function(e) {
 	
-			var $anchor = $(this);
+		// 	var $anchor = $(this);
 			
-			$("html, body").stop().animate({ scrollTop: $($anchor.attr("href")).offset().top - 49 }, 1500, "easeInOutExpo");
+		// 	$("html, body").stop().animate({ scrollTop: $($anchor.attr("href")).offset().top - 49 }, 1500, "easeInOutExpo");
 			
-			e.preventDefault();
-		});
+		// 	e.preventDefault();
+		// });
 
 		/* - Responsive Caret */
 		$(".ddl-switch").on("click", function() {
